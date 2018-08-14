@@ -1,0 +1,24 @@
+{
+  "name": "eslint_boilerplate",
+  "version": "1.0.0",
+  "description": "eslint_boilerplate",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaky1206/eslint_boilerplate.git"
+  },
+  "author": "Sayed Rokibul Hossain",
+  "license": "MIT",
+  "homepage": "https://github.com/jaky1206/eslint_boilerplate"
+}
